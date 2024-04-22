@@ -1,0 +1,117 @@
+﻿body
+{
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#folap
+{
+   padding:1%;
+
+
+}
+
+a:link
+{
+   
+    margin:5px;
+}
+a:visited 
+{
+}
+a:active
+{
+   
+}
+a:hover
+{
+  
+    font-size:large;
+}
+#pontok
+{
+    margin-left:4px;
+    padding:1%;
+}
+#fejlec 
+{
+    font-weight: bold;
+    font-size: xx-large;
+    color: white;
+    text-align: right;
+    background-image: url(kepek/fejlec.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#fejlec h1
+{
+   
+}
+
+#abc
+{
+    padding: 1%;
+}
+
+.alairas
+{
+    
+}
+#abcc{
+    margin: 10px;
+    border: 5px solid white;
+    float: right;
+}
+li{
+    color: white;
+  }
+.text1{
+    color: white;
+}
+.text2{
+    color: white;
+}
+#lablec{
+    color: white;
+}
+a.aaa {
+    color: rgb(71, 247, 71) !important; 
+  }
+
+.container1 {
+    display: flex; 
+    align-items: center; 
+  }
+
+.images-container {
+    display: flex; 
+  }
+
+.image-container {
+    
+    padding: 10px; 
+    margin-right: 10px; 
+    text-align: center; 
+  }
+
+.hkepek {
+    border-radius: 9px;
+    margin-top: 170px;
+    border: 5px solid white; 
+     
+  }
+#dada{
+    border-radius: 2px;
+    border: 5px solid white; 
+    float: right;
+    width: 400px;
+  }
+p{
+    
+    color: white;
+    font-size: large;
+}
+  
